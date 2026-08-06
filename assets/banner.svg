@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#1a2a6c"><animate attributeName="stop-color" values="#1a2a6c;#b21f1f;#fdbb2d;#1a2a6c" dur="10s" repeatCount="indefinite"/></stop>
+            <stop offset="100%" stop-color="#b21f1f"><animate attributeName="stop-color" values="#b21f1f;#fdbb2d;#1a2a6c;#b21f1f" dur="10s" repeatCount="indefinite"/></stop>
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg)" rx="15"/>
+    <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">Awesome Social Listening Platform 🚀</text>
+    <text x="50%" y="75%" font-family="Arial, sans-serif" font-size="20" fill="#f0f0f0" text-anchor="middle" dominant-baseline="middle">Curated list of Top SaaS &amp; Open Source Tools</text>
+</svg>
