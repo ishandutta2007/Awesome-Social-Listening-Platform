@@ -1,6 +1,6 @@
 # Awesome-Social-Listening-Platform
 
-# Top Social Listening Platform Tools Ecosystem
+## Top Social Listening Platform Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Social Listening, Brand Monitoring, Sentiment Analysis, Media Intelligence & Conversation Tracking*  
