@@ -36,6 +36,7 @@ This repository tracks notable **SaaS platforms** 🏢 and **open-source project
 | **[Brand24](https://www.brand24.com/)** | Real-time brand monitoring and social listening... | Starts at ~$99/mo | N/A | $5M Revenue |
 | **[Awario](https://www.awario.com/)** | Accessible social listening and brand monitoring... | Starts at ~$39/mo | N/A | $2M Revenue |
 | **[Keyhole](https://www.keyhole.com/)** | Social listening and analytics platform... | Starts at ~$99/mo | N/A | $1M Revenue |
+| **[twtData](https://twtdata.com/)** | X/Twitter follower, tweet, list and Spaces exports to CSV, plus a free X trends archive by location. | $0.00017-$0.01 per record, min $5.99 | Free trends archive | N/A |
 
 
 ## Open-Source GitHub Projects 🌐
