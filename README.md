@@ -36,6 +36,7 @@ This repository tracks notable **SaaS platforms** 🏢 and **open-source project
 | **[Brand24](https://www.brand24.com/)** | Real-time brand monitoring and social listening... | Starts at ~$99/mo | N/A | $5M Revenue |
 | **[Awario](https://www.awario.com/)** | Accessible social listening and brand monitoring... | Starts at ~$39/mo | N/A | $2M Revenue |
 | **[Keyhole](https://www.keyhole.com/)** | Social listening and analytics platform... | Starts at ~$99/mo | N/A | $1M Revenue |
+| **[KissMyPost](https://kissmypost.com)** | Reddit-only analytics: subreddit search, audience stats and historical brand mention counts since 2005... | Free account; paid plans | Free account with daily limits | Startup |
 
 
 ## Open-Source GitHub Projects 🌐
